@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アルエ",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-08T17:21:27.260144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルエ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_アルエ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arue [アルエ]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Arue_[アルエ]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルエ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_アルエ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルエ (インディーズ)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_アルエ_(インディーズ)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "12. アルエ",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/05_12._アルエ_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルエ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_アルエ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
